@@ -1,1 +1,23 @@
-test (30-07-2026)
+
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0" name="main folder name here">
+
+  <!-- Scripts -->
+  <category name="sub folder name here">
+    <reapack name="script name" type="script" desc="script name">
+     <version name="1.0" author="your name here" time="08-06-2025">
+        <source main="main">paste raw link here</source>
+      </version>
+    </reapack>
+  </category>
+
+  <!-- Effects -->
+  <category name="sub folder name here">
+    <reapack name="script name" type="effect" desc="script name">
+      <version name="1.0" author="your name here" time="08-06-2025">
+        <source main="main">paste raw link here</source>
+      </version>
+    </reapack>
+  </category>
+
+</index>
