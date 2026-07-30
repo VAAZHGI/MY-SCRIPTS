@@ -1,9 +1,9 @@
 
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1.0" name="main folder name here">
+<index version="1.0" name="VAAZHGI">
 
   <!-- Scripts -->
-  <category name="sub folder name here">
+  <category name="MUSIC">
     <reapack name="script name" type="script" desc="script name">
      <version name="1.0" author="your name here" time="08-06-2025">
         <source main="main">paste raw link here</source>
