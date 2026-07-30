@@ -6,7 +6,7 @@
   <category name="MUSIC">
     <reapack name="VAAZHGI CHORD HELPER V1.lua" type="script" desc="VAAZHGI CHORD HELPER V1.lua">
      <version name="1.0" author="VAAZHGI" time="30-07-2026">
-        <source main="main">paste raw link here</source>
+        <source main="main">https://raw.githubusercontent.com/VAAZHGI/MY-SCRIPTS/refs/heads/main/MUSIC/CHORD%20HELPER%20V1.lua</source>
       </version>
     </reapack>
   </category>
